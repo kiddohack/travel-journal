@@ -1,0 +1,24 @@
+.header {
+    width: auto;
+    height: 65px;
+    background-color: rgb(247, 50, 50);
+    display: block;
+    opacity: 0.75;
+}
+
+.header--content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: white;
+}
+
+.header--icon {
+    margin-right: 3px;
+}
+
+.header--text {
+    font-size: 17px;
+}
+
