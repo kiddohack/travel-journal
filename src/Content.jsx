@@ -7,21 +7,12 @@ export default function Content() {
             <div className="main--content">
 
                 <Location 
-                    img="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTsuFKRtPG6PpoE9DcO8Ka2sPLgalwAwNYWx2XrIBaJfGX7mrpHZMtuby6-2-mKm0W0achPGuGtyYEPUFZcy_n3g2E6e2xlGQQ2ltLxZ2E"
-                    country="Greece"
-                    url="https://maps.app.goo.gl/tYBU2sdvMfZHKkXA6"
-                    location="Katerini"
-                    date="July 2018"
-                    details="Paralia Katerini, a popular resort town in Greece, sits along the shores of the Aegean Sea. Known for its sandy beaches, vibrant nightlife, and proximity to Mount Olympus, it's a favored tourist destination."
-                />
-
-                <Location 
-                    img="https://images.unsplash.com/photo-1597302269737-ec3fb62fbc76?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                    country="Italy"
-                    url="https://maps.app.goo.gl/6qBcENny9jU6MZfa7"
-                    location="Dolomites"
-                    date="Jun 2021"
-                    details="The Dolomites, in northern Italy, boast stunning alpine landscapes with distinctive, jagged peaks. A UNESCO World Heritage site, it's a haven for outdoor enthusiasts, offering hiking, skiing, and picturesque villages."
+                    img="https://lh3.googleusercontent.com/p/AF1QipNoSZ-xTGD_1I5y6RxUns2xzCGBiEmzmxve25OI=s680-w680-h510"
+                    country="Romania"
+                    url="https://maps.app.goo.gl/1qbGv5ANy5nL8e128"
+                    location="Bujdoso Ski Resort"
+                    date="January 2024"
+                    details="Bujdoso Ski Resort in Romania, adjacent to a serene forest, boasts two thrilling sliding roads. With modern amenities and cozy accommodations, it offers a perfect winter retreat amidst picturesque alpine landscapes."
                 />
 
                 <Location 
@@ -34,14 +25,22 @@ export default function Content() {
                 />
 
                 <Location 
-                    img="https://lh3.googleusercontent.com/p/AF1QipNoSZ-xTGD_1I5y6RxUns2xzCGBiEmzmxve25OI=s680-w680-h510"
-                    country="Romania"
-                    url="https://maps.app.goo.gl/1qbGv5ANy5nL8e128"
-                    location="Bujdoso Ski Resort"
-                    date="January 2024"
-                    details="Bujdoso Ski Resort in Romania, adjacent to a serene forest, boasts two thrilling sliding roads. With modern amenities and cozy accommodations, it offers a perfect winter retreat amidst picturesque alpine landscapes."
+                    img="https://images.unsplash.com/photo-1597302269737-ec3fb62fbc76?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    country="Italy"
+                    url="https://maps.app.goo.gl/6qBcENny9jU6MZfa7"
+                    location="Dolomites"
+                    date="Jun 2021"
+                    details="The Dolomites, in northern Italy, boast stunning alpine landscapes with distinctive, jagged peaks. A UNESCO World Heritage site, it's a haven for outdoor enthusiasts, offering hiking, skiing, and picturesque villages."
                 />
 
+                <Location 
+                    img="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTsuFKRtPG6PpoE9DcO8Ka2sPLgalwAwNYWx2XrIBaJfGX7mrpHZMtuby6-2-mKm0W0achPGuGtyYEPUFZcy_n3g2E6e2xlGQQ2ltLxZ2E"
+                    country="Greece"
+                    url="https://maps.app.goo.gl/tYBU2sdvMfZHKkXA6"
+                    location="Katerini"
+                    date="July 2018"
+                    details="Paralia Katerini, a popular resort town in Greece, sits along the shores of the Aegean Sea. Known for its sandy beaches, vibrant nightlife, and proximity to Mount Olympus, it's a favored tourist destination."
+                />
             </div>
         </main>
     )
