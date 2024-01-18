@@ -1,11 +1,11 @@
-import "./Content.css"
 import MapPinFillIcon from 'remixicon-react/MapPinFillIcon'
+import "./Content.css"
 
 export default function Content() {
     return(
         <main className="main">
             <div className="main--content">
-                
+
                 <Location 
                     img="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTsuFKRtPG6PpoE9DcO8Ka2sPLgalwAwNYWx2XrIBaJfGX7mrpHZMtuby6-2-mKm0W0achPGuGtyYEPUFZcy_n3g2E6e2xlGQQ2ltLxZ2E"
                     country="Greece"
@@ -32,6 +32,16 @@ export default function Content() {
                     date="Aug 2023"
                     details="Mount Olympus, Greece's highest peak at 2,917 meters, is legendary in Greek mythology as the dwelling place of the gods. Majestic and rugged, it attracts hikers, myth enthusiasts, and nature lovers."
                 />
+
+                <Location 
+                    img="https://lh3.googleusercontent.com/p/AF1QipNoSZ-xTGD_1I5y6RxUns2xzCGBiEmzmxve25OI=s680-w680-h510"
+                    country="Romania"
+                    url="https://maps.app.goo.gl/1qbGv5ANy5nL8e128"
+                    location="Praid"
+                    date="January 2024"
+                    details="Bujdoso Ski Resort in Romania, adjacent to a serene forest, boasts two thrilling sliding roads. With modern amenities and cozy accommodations, it offers a perfect winter retreat amidst picturesque alpine landscapes."
+                />
+
             </div>
         </main>
     )
