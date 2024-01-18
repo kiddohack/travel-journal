@@ -37,7 +37,7 @@ export default function Content() {
                     img="https://lh3.googleusercontent.com/p/AF1QipNoSZ-xTGD_1I5y6RxUns2xzCGBiEmzmxve25OI=s680-w680-h510"
                     country="Romania"
                     url="https://maps.app.goo.gl/1qbGv5ANy5nL8e128"
-                    location="Praid"
+                    location="Bujdoso Ski Resort"
                     date="January 2024"
                     details="Bujdoso Ski Resort in Romania, adjacent to a serene forest, boasts two thrilling sliding roads. With modern amenities and cozy accommodations, it offers a perfect winter retreat amidst picturesque alpine landscapes."
                 />
